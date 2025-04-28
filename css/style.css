@@ -1193,3 +1193,8 @@ section .container {
 .fst-italic a {
   color: #ffffff !important;
 }
+
+.text-white.text-decoration-underline:hover {
+  color: #35e888;
+  text-decoration: none;
+}
