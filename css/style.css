@@ -1192,5 +1192,5 @@ section .container {
 
 .text-decoration-underline a
 {
-  color: #fff;
+  color: #ffffff !important;
 }
