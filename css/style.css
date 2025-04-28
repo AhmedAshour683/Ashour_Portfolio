@@ -1194,7 +1194,7 @@ section .container {
   color: #ffffff !important;
 }
 
-.text-white .text-decoration-underline:hover {
+.text-white.text-decoration-underline:hover {
   color: #35e888;
   text-decoration: none;
 }
