@@ -1190,7 +1190,6 @@ section .container {
 }
 
 
-.text-decoration-underline a
-{
+.fst-italic a {
   color: #ffffff !important;
 }
